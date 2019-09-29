@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>
-<center>
-HIIIIIIIIIII
-</h3>
-</center>
+<h1> <center>THIS IS A TOMCAT DEPLOYMENT EXAMPLE</center></h1>
 </body>
 </html>
