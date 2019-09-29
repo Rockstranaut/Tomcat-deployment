@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1> <center>THIS IS A TOMCAT DEPLOYMENT EXAMPLE</center></h1>
+<h1> <center>THIS IS A TOMCAT DEPLOYMENT EXAMPLE</center></h1>
 </body>
 </html>
