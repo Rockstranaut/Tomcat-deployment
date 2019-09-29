@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<hr>
-<hr>
-
 <h3>
 <center>
 HIIIIIIIIIII
